@@ -1,11 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Uygulaması</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+  <div id="quiz-container">
+    <div id="timer-bar-container">
+      <div id="timer-bar"></div>
+    </div>
+    <div id="timer">Süre: 30 saniye</div>
+    <h1 id="question"></h1>
+    <div id="options">
+      <button id="optionA">A</button>
+      <button id="optionB">B</button>
+      <button id="optionC">C</button>
+      <button id="optionD">D</button>
+    </div>
+    <button id="next-btn">Sonraki Soru</button>
+  </div>
+  <script src="quiz.js"></script>
 </body>
 </html>
