@@ -18,7 +18,7 @@ Bu proje bir **Quiz Uygulaması**dır. **HTML**, **CSS** ve **JavaScript** kulla
 - **HTML**
 - **CSS**
 - **JavaScript**
-- 
+  
 ## Nasıl Çalıştırılır?
 1. Proje dosyalarını indirin.
 2. `index.html` dosyasını tarayıcıda açın.
