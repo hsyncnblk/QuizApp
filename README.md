@@ -7,8 +7,8 @@ Bu proje bir **Quiz Uygulaması**dır. **HTML**, **CSS** ve **JavaScript** kulla
 - Test toplamda **10 sorudan** oluşur.
 - **Her soru ekranda 30 saniye** boyunca görünür:
   - İlk **10 saniye boyunca cevap şıklarına tıklanamaz**.
-  - 10. saniyeden sonra cevap verilebilir.
-  - 30. saniyenin sonunda bir sonraki soruya otomatik geçiş yapılır.
+  - 10 saniyeden sonra cevap verilebilir.
+  - 30 saniyenin sonunda bir sonraki soruya otomatik geçiş yapılır.
 - **Geçmiş sorulara geri dönüş yapılamaz.**
 - Test tamamlandığında:
   - Kullanıcının verdiği yanıtlar bir **tablo** şeklinde gösterilir.
